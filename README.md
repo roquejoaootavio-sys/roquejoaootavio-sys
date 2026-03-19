@@ -3,7 +3,6 @@ Opa! Me chamo roquejoaootavio 👋
 - 🔭 Atualmente estou cursando ADS na fiap e focando bastante no front-end
 - 👜 Pretendo trabalhar na area de web designer ou automações
 - 💬 Contate-me pelo email: Roquejoaootavio@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 ## 📊 GitHub Stats
 
