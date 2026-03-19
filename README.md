@@ -1,16 +1,15 @@
-## Hi there 👋
+Opa! Me chamo roquejoaootavio 👋
 
-<!--
-**roquejoaootavio-sys/roquejoaootavio-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou cursando ADS na fiap e focando bastante no front-end
+- 👜 Pretendo trabalhar na area de web designer ou automações
+- 💬 Contate-me pelo email: Roquejoaootavio@gmail.com
+- 😄 Pronomes: Ele/Dele
 
-Here are some ideas to get you started:
+# Linguagens de Programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão algumas linguagens que eu uso:
+
+![HTML](imagens/html.png)  
+![CSS](imagens/css.png)  
+![Python](imagens/python.png)  
+![JavaScript](imagens/javascript.png)
