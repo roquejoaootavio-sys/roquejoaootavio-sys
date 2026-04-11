@@ -1,7 +1,7 @@
 Opa! Me chamo roquejoaootavio 👋
 
-- 🔭 Atualmente estou cursando ADS na fiap e focando bastante no front-end
-- 👜 Pretendo trabalhar na area de web designer ou automações
+- 🔭 Atualmente estou cursando ADS e pretendo ser analista data analyst
+- 👜 Pretendo trabalhar na area de analise de dados e automações
 - 💬 Contate-me pelo email: Roquejoaootavio@gmail.com
 
 ## 📊 GitHub Stats
@@ -18,7 +18,4 @@ Opa! Me chamo roquejoaootavio 👋
 
 Aqui estão algumas linguagens que eu uso:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
